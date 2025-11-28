@@ -1,4 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Automation](https://img.shields.io/badge/Automation-Selenium-brightgreen.svg)
+
 # Cloud Fleet Manager Automation System 🚢
+
+![CFM Automation GUI](screenshots/Screenshot%202025-11-28%20151736.png)
+*User-friendly interface for managing document downloads*
 
 A comprehensive Python automation tool that streamlines document downloading and purchase order processing for Cloud Fleet Manager (CFM) marine management platform.
 
